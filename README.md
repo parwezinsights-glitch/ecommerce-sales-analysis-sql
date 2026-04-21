@@ -4,8 +4,7 @@
 
 This project is an end-to-end SQL analysis of a real e-commerce dataset sourced from Kaggle. The dataset contains transactional data from a UK-based online retailer. Using MySQL Workbench, I explored, cleaned, and analysed 24,467 records to answer 11 business questions across revenue performance, customer behaviour, and product analysis.
 
-All SQL queries are available in [analysis.sql](analysis.sql).
----
+All SQL queries are available in [analysis.sql](analysis.sql).---
 
 ## Tools and Technologies
 
